@@ -1,6 +1,6 @@
-### Well... hello there o/
+## Well... hello there o/
 
-- My name is Breno Valentim. 
+#### My name is Breno Valentim. 
 - 🎓 I’m currently studying information systems :D
 - 💻 I’m currently learning front-end development
 - 🔱 I’m interested in HTML, CSS, JavaScript and so much more.
